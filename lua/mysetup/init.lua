@@ -1,3 +1,4 @@
+require("mysetup.plugins")
 require("mysetup.keymaps")
 
 -- disable netrw at the very start of your init.lua
